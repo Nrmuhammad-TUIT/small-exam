@@ -1,0 +1,65 @@
+.main-freedom {
+   background-image: url(../../images/photo_2022-01-23_10-52-28.jpg) ;
+   background-repeat: no-repeat;
+   background-position:  calc(50% + 530px) calc(50% + 20px);
+   background-size: 587px 565px;
+   padding: 150px 0;
+   border-bottom: 3px solid #888888;
+   margin-bottom: 68px;
+}
+
+// .freedom {
+   //    display: flex;
+   //    position: relative;
+   //    padding-bottom: 170px;
+   //    border-bottom: 2px solid #888888;
+   // }
+   
+   .freedom-hero {
+      max-width: 500px;
+   }
+   
+   .freedom-hero__title {
+      margin: 0;
+      padding-bottom: 30px;
+      font-family: "Roboto" , "Arial" , sans-serif;
+      font-weight: 700;
+      font-size: 50px;
+      line-height: 60px;
+      
+   }
+   
+   .freedom-hero__info {
+      border-left: 3px solid #888888;
+      margin-bottom: 30px;
+   }
+   
+   .freedom-hero__text {
+      padding-left: 40px;
+      font-family: "Roboto" , "Arial" , sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      opacity: 0.6;
+   }
+   
+   
+   .freedom-hero__link {
+      text-decoration: none;
+      padding: 12px 38.5px; 
+      color: #ffffff;
+      background-color: #EA625C;
+      
+      &:hover {
+         opacity: 0.8;
+      }
+   }
+   
+   // .freedom-hero__image {
+      //    margin-bottom: 70px;
+      //    position: absolute;
+      //    top: 150px;
+      //    left: 1000px;
+      // }
+      
+      
